@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04b987a3-a791-4293-bdc0-bbab75b594ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rock_paper_scissors_lizard_spock.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ruby-gemset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ruby-version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpsls.rb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Ruby File" />
+        <option value="Ruby Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1z9CQb8GtkYT7nlmmRvb8ZFrVx2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="Ruby Console.IRB: rock_paper_scissors_lizard_spock">
+    <configuration name="IRB: rock_paper_scissors_lizard_spock" type="IrbRunConfigurationType" factoryName="IRB console" temporary="true">
+      <module name="rock_paper_scissors_lizard_spock" />
+      <IRB_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <IRB_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <IRB_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <IRB_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <IRB_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" IGNORE_RCOVRT="true" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+      <IRB_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$APPLICATION_HOME_DIR$/plugins/ruby/rb/testing/runner/irb.rb" />
+      <IRB_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="--simple-prompt --nomultiline --nocolorize" />
+      <IRB_RUN_CONFIG NAME="CONSOLE_TYPE" VALUE="IRB" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rpsls" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="rock_paper_scissors_lizard_spock" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" IGNORE_RCOVRT="true" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/rpsls.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Ruby.rpsls" />
+      <item itemvalue="Ruby Console.IRB: rock_paper_scissors_lizard_spock" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Ruby Console.IRB: rock_paper_scissors_lizard_spock" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04b987a3-a791-4293-bdc0-bbab75b594ad" name="Changes" comment="" />
+      <created>1633550902050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633550902050</updated>
+      <workItem from="1633550903332" duration="606000" />
+      <workItem from="1633551519352" duration="3134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/rock_paper_scissors_lizard_spock@test_rpsls_rb.rcov" NAME=" Coverage Results" MODIFIED="1633551361263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rock_paper_scissors_lizard_spock" />
+    <SUITE FILE_PATH="coverage/rock_paper_scissors_lizard_spock@rpsls.rcov" NAME="rpsls Coverage Results" MODIFIED="1633588404355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" MODULE_NAME="rock_paper_scissors_lizard_spock" />
+    <SUITE FILE_PATH="coverage/rock_paper_scissors_lizard_spock@IRB__rock_paper_scissors_lizard_spock.rcov" NAME="IRB: rock_paper_scissors_lizard_spock Coverage Results" MODIFIED="1633589398175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rock_paper_scissors_lizard_spock" />
+  </component>
+</project>

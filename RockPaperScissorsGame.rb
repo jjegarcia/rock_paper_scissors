@@ -15,6 +15,7 @@ class RockPaperScissorsGame
 
   def get_outcome(player2_move, player1_move)
     @@outcome[@rules[player2_move][player1_move]]
+    # puts "@rules[#{player2_move}][#{player1_move}]= #{@rules[player2_move][player1_move]}"
   end
 
 end

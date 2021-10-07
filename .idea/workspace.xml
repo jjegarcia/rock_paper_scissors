@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04b987a3-a791-4293-bdc0-bbab75b594ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/rock_paper_scissors_lizard_spock.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Game.rb" beforeDir="false" afterPath="$PROJECT_DIR$/RockPaperScissorsGame.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpsls.rb" beforeDir="false" afterPath="$PROJECT_DIR$/rpsls.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RockPaperScissorsGame.rb" beforeDir="false" afterPath="$PROJECT_DIR$/RockPaperScissorsGame.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rock_paper_scissors_lizard_spock.rb" beforeDir="false" afterPath="$PROJECT_DIR$/rock_paper_scissors_lizard_spock.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,7 @@
       <updated>1633550902050</updated>
       <workItem from="1633550903332" duration="606000" />
       <workItem from="1633551519352" duration="6054000" />
-      <workItem from="1633612857087" duration="4188000" />
+      <workItem from="1633612857087" duration="7446000" />
     </task>
     <servers />
   </component>
@@ -90,7 +89,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/rock_paper_scissors_lizard_spock@test_rpsls_rb.rcov" NAME=" Coverage Results" MODIFIED="1633551361263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rock_paper_scissors_lizard_spock" />
-    <SUITE FILE_PATH="coverage/rock_paper_scissors_lizard_spock@rpsls.rcov" NAME="rpsls Coverage Results" MODIFIED="1633631802655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" MODULE_NAME="rock_paper_scissors_lizard_spock" />
+    <SUITE FILE_PATH="coverage/rock_paper_scissors_lizard_spock@rpsls.rcov" NAME="rpsls Coverage Results" MODIFIED="1633635612851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" MODULE_NAME="rock_paper_scissors_lizard_spock" />
     <SUITE FILE_PATH="coverage/rock_paper_scissors_lizard_spock@IRB__rock_paper_scissors_lizard_spock.rcov" NAME="IRB: rock_paper_scissors_lizard_spock Coverage Results" MODIFIED="1633624489610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rock_paper_scissors_lizard_spock" />
   </component>
 </project>

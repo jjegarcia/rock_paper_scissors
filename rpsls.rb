@@ -1,6 +1,6 @@
-require './rock_paper_scissors_lizard_spock.rb'
+require './rock_paper_scissors_lizard_spock_game.rb'
 
-game = RockPaperScissorsLizardSpock.new
+game = RockPaperScissorsLizardSpockGame.new
 
 puts "player1 move?"
 player1_move = game.get_player1_move(gets.chomp)

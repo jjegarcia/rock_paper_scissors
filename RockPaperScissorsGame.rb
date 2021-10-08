@@ -1,8 +1,17 @@
 class RockPaperScissorsGame
-  # @@outcome = ["It's a draw", "Player 1 wins", "Player 2 wins"]
+  @@outcome = {
+    draw: "It's a draw",
+    player1: "Player 1 wins",
+    player2: "Player 2 wins"
+  }
+
   def initialize
-    @choices = %w[rock paper scissors]  #changes
-    @rules = [["It's a draw", "Player 1 wins", "Player 2 wins"], ["Player 2 wins", "It's a draw", "Player 1 wins"], ["Player 1 wins", "Player 2 wins", "It's a draw"]] #changes
+    @choices = %w[rock paper scissors] #changes
+    @rules = [
+      [@@outcome[:draw], @@outcome[:player1], @@outcome[:player2]],
+      [@@outcome[:player2], @@outcome[:draw], @@outcome[:player1]],
+      [@@outcome[:player1], @@outcome[:player2], @@outcome[:draw]]
+    ] #changes
   end
 
   def get_player1_move(choice)

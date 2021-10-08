@@ -4,6 +4,12 @@ class RockPaperScissorsLizardSpock < RockPaperScissorsGame
 
   def initialize
     @choices = %w[rock paper scissors lizard spock]
-    @rules = [[0, 1, 2, 2, 1], [2, 0, 1, 1, 0], [1, 2, 0, 2, 1], [1, 2, 1, 0, 2], [2, 1, 2, 1, 0]]
+    @rules = [
+      ["It's a draw", "Player 1 wins", "Player 2 wins", "Player 2 wins", "Player 1 wins"],
+      ["Player 2 wins", "It's a draw", "Player 1 wins", "Player 1 wins", "Player 2 wins"],
+      ["Player 1 wins", "Player 2 wins", "It's a draw", "Player 2 wins", "Player 1 wins"],
+      ["Player 1 wins", "Player 2 wins", "Player 1 wins", "It's a draw", "Player 2 wins"],
+      ["Player 2 wins", "Player 1 wins", "Player 2 wins", "Player 1 wins", "It's a draw"]
+    ]
   end
 end

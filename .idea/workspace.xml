@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RockPaperScissorsGame.rb" beforeDir="false" afterPath="$PROJECT_DIR$/RockPaperScissorsGame.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rock_paper_scissors_lizard_spock.rb" beforeDir="false" afterPath="$PROJECT_DIR$/rock_paper_scissors_lizard_spock.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpsls.rb" beforeDir="false" afterPath="$PROJECT_DIR$/rpsls.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +90,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/rock_paper_scissors_lizard_spock@test_rpsls_rb.rcov" NAME=" Coverage Results" MODIFIED="1633551361263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rock_paper_scissors_lizard_spock" />
-    <SUITE FILE_PATH="coverage/rock_paper_scissors_lizard_spock@rpsls.rcov" NAME="rpsls Coverage Results" MODIFIED="1633635612851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" MODULE_NAME="rock_paper_scissors_lizard_spock" />
+    <SUITE FILE_PATH="coverage/rock_paper_scissors_lizard_spock@rpsls.rcov" NAME="rpsls Coverage Results" MODIFIED="1633701689164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" MODULE_NAME="rock_paper_scissors_lizard_spock" />
     <SUITE FILE_PATH="coverage/rock_paper_scissors_lizard_spock@IRB__rock_paper_scissors_lizard_spock.rcov" NAME="IRB: rock_paper_scissors_lizard_spock Coverage Results" MODIFIED="1633624489610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rock_paper_scissors_lizard_spock" />
   </component>
 </project>
